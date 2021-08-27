@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobile - POC</string>
+    <string name="at2_cryptocurrency">AT2 CRYPTOCURRENCY</string>
+    <string name="send">Send</string>
+    <string-array name="accounts">
+        <item>Account I</item>
+        <item>Account II</item>
+        <item>Account III</item>
+        <item>Account IV</item>
+    </string-array>
+</resources>
